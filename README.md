@@ -8,7 +8,7 @@ Referensi:
 1. Sumber Dataset Traffic Sign China:
 http://www.nlpr.ia.ac.cn/pal/trafficdata/recognition.html
 2. Sumber Dataset Traffic Sign Jerman:
-https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
+https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 3. Referensi code:
 https://www.kaggle.com/indhusree/traffic-signal-predection-cnn
 4. Referensi pembelajaran:
