@@ -6,11 +6,11 @@ Kelompok 2:
 
 Referensi:
 1. Sumber Dataset Traffic Sign China:
-- http://www.nlpr.ia.ac.cn/pal/trafficdata/recognition.html
+http://www.nlpr.ia.ac.cn/pal/trafficdata/recognition.html
 2. Sumber Dataset Traffic Sign Jerman:
--https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
+https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 3. Referensi code:
-- https://www.kaggle.com/indhusree/traffic-signal-predection-cnn
+https://www.kaggle.com/indhusree/traffic-signal-predection-cnn
 4. Referensi pembelajaran:
 - https://data-flair.training/blogs/python-project-traffic-signs-recognition/
 - https://medium.com/@16611110/apa-itu-convolutional-neural-network-836f70b193a4
